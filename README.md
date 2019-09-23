@@ -18,7 +18,7 @@
 
 ### What?
 
-This is a standalone sample app showing how to use the [@nestjsplus/knex](https://github.com/nestjsplus/knex) package for integrating [Knex.js](http://knexjs.org) with [Nest](https://nestjs.com).
+This is a standalone sample app showing how to use the [@nestjsplus/knex](https://github.com/nestjsplus/knex) package for integrating [Knex.js](http://knexjs.org) with [Nest](https://nestjs.com). You may also want to read about [building dynamic modules in NestJS](https://dev.to/nestjs/advanced-nestjs-how-to-build-completely-dynamic-nestjs-modules-1370), and a [custom schematic for generating modules based on that pattern](https://dev.to/nestjs/build-a-nestjs-module-for-knex-js-or-other-resource-based-libraries-in-5-minutes-12an).
 
 You can clone and install it, and examine the source code to learn how to use the package.
 
